@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Luis Naveda</h1>
-<h3 align="center">Y soy fullstack developer</h3>
+<h3 align="center">Y soy Desarrollador Fullstack</h3>
 
 - 🔭 Actualmente me encuentro trabajando en el proyecto [Pokémon App](https://github.com/luisnavedag/pokeAPI)
 
@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/luisnavedag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luisnavedag" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21229972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21229972" height="30" width="40" /></a>
 <a href="https://instagram.com/luisnavedag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisnavedag" height="30" width="40" /></a>
+<a href="https://facebook.com/luis.navedagarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luisnavedag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas que utilizo:</h3>
