@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente me encuentro trabajando en el proyecto [ProdElevate](https://github.com/luisnavedag/prodElevatePF)
 
-- 🌱 Aprendiendo **Next.js** para utilizarlo en mis próximos proyectos
+- 🌱 Aprendiendo **Next.js y React Native** para implementar en mis próximos proyectos
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi Portfolio --> [https://luis-naveda-portfolio.netlify.app](https://luis-naveda-portfolio.netlify.app)
 
