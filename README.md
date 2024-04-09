@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi Portfolio --> [https://luis-naveda-portfolio.netlify.app](https://luis-naveda-portfolio.netlify.app)
 
-- 📫 Puedes contactarme a través de mi correo **luisnaveda10@gmail.com**
+- 📫 Puedes contactarme a través de mi correo **luisjosenavedagarcia@gmail.com**
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
